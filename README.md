@@ -5,7 +5,9 @@ University of Technology, Iraq. I build full-stack web and mobile products with
 **Flutter, React and Node.js**, and I run the infrastructure behind them on
 **AWS with Docker, Terraform and GitHub Actions**.
 
-### Featured project: [Madrasa](https://github.com/fkhr0/madrasa)
+### Featured projects
+
+#### [Madrasa](https://github.com/fkhr0/madrasa)
 
 An Arabic-first school platform for Iraqi schools: students, parents, teachers,
 school offices and bus drivers in one app.
@@ -16,6 +18,14 @@ school offices and bus drivers in one app.
 - Live school-bus tracking with push notifications (Firebase Cloud Messaging)
 - Two API copies behind Nginx, zero-downtime deploys from GitHub Actions
 - Terraform on AWS, Prometheus and Grafana monitoring; CodeQL, Trivy and Gitleaks in CI
+
+#### [LinkPulse](https://github.com/fkhr0/linkpulse)
+
+Short links with live click analytics. [Live demo](https://linkpulse.duckdns.org) ("Try the demo").
+
+- React 19 + TypeScript dashboard: TanStack Query, React Router, Tailwind, hand-built charts
+- Node.js/Express API on PostgreSQL; Redis-cached redirects, clicks recorded in the background
+- Vitest, Testing Library, Supertest and Playwright end-to-end tests; Docker, deployed from GitHub Actions
 
 ### Tools I use
 
