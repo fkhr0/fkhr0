@@ -1,6 +1,6 @@
 # Hi, I'm Fakhruddien 👋
 
-Software engineer in Baghdad and a 2026 Computer Engineering graduate of the
+Full-stack and DevOps engineer in Baghdad and a 2026 Computer Engineering graduate of the
 University of Technology, Iraq. I build full-stack web and mobile products with
 **Flutter, React and Node.js**, and I run the infrastructure behind them on
 **AWS with Docker, Terraform and GitHub Actions**.
