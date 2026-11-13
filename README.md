@@ -1,4 +1,4 @@
-# Hi, I'm Fakhruddien 👋
+# Hi, I'm Fakhruddien 
 
 Full-stack and DevOps engineer in Baghdad and a 2026 Computer Engineering graduate of the
 University of Technology, Iraq. I build full-stack web and mobile products with
